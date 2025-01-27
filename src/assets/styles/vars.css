@@ -1,0 +1,10 @@
+:root{
+    /*FONT*/
+    --cor-primaria: #A60A0A;
+    --cor-secundaria: #F2F2F2;
+    --cor-terciaria: #590808;
+    --cor-hover: #;
+
+    --fonte-principal: "VCR OSD Mono Regular", sans-serif;
+    --fonte-secundaria: "Edwardian Script ITC Regular", sans-serif;
+}
