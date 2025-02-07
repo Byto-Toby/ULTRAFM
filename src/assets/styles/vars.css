@@ -1,10 +1,15 @@
 :root{
-    /*FONT*/
+    
+            /* FONT */
+    --fonte-principal: "VCR OSD Mono Regular", sans-serif;
+    --fonte-secundaria: "Edwardian Script ITC Regular", sans-serif;
+
+            /* COLORS */
     --cor-primaria: #A60A0A;
     --cor-secundaria: #F2F2F2;
     --cor-terciaria: #590808;
-    --cor-hover: #;
 
-    --fonte-principal: "VCR OSD Mono Regular", sans-serif;
-    --fonte-secundaria: "Edwardian Script ITC Regular", sans-serif;
-}
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7)
+
+    }

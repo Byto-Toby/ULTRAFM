@@ -178,7 +178,7 @@ color: var(--cor-primaria);
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(to right, #FE0000, #9F0000);
+    background: linear-gradient(to right, #FE0000, #c28d07);
     padding: 15px 40px;
     display: flex;
     justify-content: space-between;
